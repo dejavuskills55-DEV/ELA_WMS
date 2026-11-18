@@ -1,0 +1,8 @@
+{
+  "name": "ELA Inventory Management System (WMS)",
+  "description": "Production-oriented Textile Manufacturing Warehouse Management System for Raw Materials and Finished Products with Arabic RTL and English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
